@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/logoMyMusic.svg</file>
+        <file>icons/myMusic.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/poubelle.png</file>
+        <file>icons/precedent.png</file>
+        <file>icons/random.png</file>
+        <file>icons/repeat_current.png</file>
+        <file>icons/repeat.png</file>
+        <file>icons/suivant.png</file>
+    </qresource>
+</RCC>
